@@ -1,2 +1,4 @@
-# log-rotate-sh-96
+# Log Rotate Sh 96
+
 Compress logging directories into backups in Bash.
+
